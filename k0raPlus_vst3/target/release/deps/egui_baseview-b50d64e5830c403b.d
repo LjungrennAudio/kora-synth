@@ -1,0 +1,12 @@
+C:\github\kora-synth\k0raPlus_vst3\target\release\deps\egui_baseview-b50d64e5830c403b.d: C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\lib.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\renderer.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\renderer\opengl.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\renderer\opengl\renderer.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\translate.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\window.rs
+
+C:\github\kora-synth\k0raPlus_vst3\target\release\deps\libegui_baseview-b50d64e5830c403b.rlib: C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\lib.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\renderer.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\renderer\opengl.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\renderer\opengl\renderer.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\translate.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\window.rs
+
+C:\github\kora-synth\k0raPlus_vst3\target\release\deps\libegui_baseview-b50d64e5830c403b.rmeta: C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\lib.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\renderer.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\renderer\opengl.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\renderer\opengl\renderer.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\translate.rs C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\window.rs
+
+C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\lib.rs:
+C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\renderer.rs:
+C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\renderer\opengl.rs:
+C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\renderer\opengl\renderer.rs:
+C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\translate.rs:
+C:\Users\owner\.cargo\git\checkouts\egui-baseview-fde77becaa39f49a\ec70c3f\src\window.rs:

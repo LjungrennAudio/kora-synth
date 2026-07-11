@@ -1,0 +1,12 @@
+C:\github\kora-synth\k0ra_vst3\target\release\deps\vst3_com-3238a5b61f84092c.d: C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\lib.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\ptr.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\interfaces\mod.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\interfaces\iunknown.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\offset.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\sys.rs
+
+C:\github\kora-synth\k0ra_vst3\target\release\deps\libvst3_com-3238a5b61f84092c.rlib: C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\lib.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\ptr.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\interfaces\mod.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\interfaces\iunknown.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\offset.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\sys.rs
+
+C:\github\kora-synth\k0ra_vst3\target\release\deps\libvst3_com-3238a5b61f84092c.rmeta: C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\lib.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\ptr.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\interfaces\mod.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\interfaces\iunknown.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\offset.rs C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\sys.rs
+
+C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\lib.rs:
+C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\ptr.rs:
+C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\interfaces\mod.rs:
+C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\interfaces\iunknown.rs:
+C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\offset.rs:
+C:\Users\owner\.cargo\git\checkouts\vst3-sys-7c1833a33d74d639\b3ff4d7\com\src\sys.rs:

@@ -1,0 +1,20 @@
+[package]
+name = "kora_vst3"
+version = "0.1.0"
+edition = "2021"
+authors = ["wofl"]
+license = "MIT"
+
+[workspace]
+members = ["xtask"]
+
+[lib]
+crate-type = ["cdylib", "lib"]
+
+[dependencies]
+nih_plug = { git = "https://github.com/robbert-vdh/nih-plug.git", features = ["assert_process_allocs"] }
+rand = "0.8"
+
+[profile.release]
+lto = "thin"
+strip = "symbols"
