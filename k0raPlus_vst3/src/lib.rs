@@ -363,11 +363,13 @@ impl Plugin for KoraVst {
         };
 
         let mut next_event = context.next_event();
+        let mut sample_id = 0;
+
         for channel_samples in buffer.iter_samples() {
             let tune = self.params.tune_semitones.smoothed.next();
-
+        
             while let Some(event) = next_event {
-                if event.timing() > 0 {
+                if event.timing() as usize > sample_id {
                     break;
                 }
                 if let NoteEvent::NoteOn { note, velocity, .. } = event {
@@ -375,7 +377,8 @@ impl Plugin for KoraVst {
                 }
                 next_event = context.next_event();
             }
-
+            sample_id += 1;
+        
             let decay = self.params.decay.smoothed.next();
             let feedback = self.params.feedback.smoothed.next();
             let mix = self.params.mix.smoothed.next();
@@ -384,18 +387,17 @@ impl Plugin for KoraVst {
             let body_freq = self.params.body_freq.smoothed.next();
             let body_feedback = self.params.body_feedback.smoothed.next();
             let body_damping = self.params.body_damping.smoothed.next();
-
+        
             let sample = synth.get_next_sample(
                 feedback, decay, mix,
                 shelf_freq, shelf_gain,
                 body_freq, body_feedback, body_damping,
             );
-
+        
             for out in channel_samples {
                 *out = sample;
             }
         }
-
         ProcessStatus::Normal
     }
 }
